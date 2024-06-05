@@ -1,0 +1,14 @@
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\bin\Debug\net8.0\HeapSort.exe
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\bin\Debug\net8.0\HeapSort.deps.json
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\bin\Debug\net8.0\HeapSort.runtimeconfig.json
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\bin\Debug\net8.0\HeapSort.dll
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\bin\Debug\net8.0\HeapSort.pdb
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\obj\Debug\net8.0\HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\obj\Debug\net8.0\HeapSort.AssemblyInfoInputs.cache
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\obj\Debug\net8.0\HeapSort.AssemblyInfo.cs
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\obj\Debug\net8.0\HeapSort.csproj.CoreCompileInputs.cache
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\obj\Debug\net8.0\HeapSort.dll
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\obj\Debug\net8.0\refint\HeapSort.dll
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\obj\Debug\net8.0\HeapSort.pdb
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\obj\Debug\net8.0\HeapSort.genruntimeconfig.cache
+C:\Users\maxxx\OneDrive\Рабочий стол\AlgoritmLab1\HeapSort\HeapSort\obj\Debug\net8.0\ref\HeapSort.dll

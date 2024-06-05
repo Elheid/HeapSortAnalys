@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<experiments>
+		<experiment name= "HeapTree">
+			<nodes name = "Arithmetic Progression" minElement = "1" maxElement = "800" diff = "3" startLength="1000"  repeat = "20">
+			</nodes>
+
+			<nodes name = "Arithmetic Progression" minElement = "1" maxElement = "800" diff = "11" startLength="1000"  repeat = "20">
+			</nodes>
+
+			<nodes name = "Arithmetic Progression" minElement = "1" maxElement = "800" diff = "17" startLength="1000"  repeat = "20">
+			</nodes>
+
+			<nodes name = "Arithmetic Progression" minElement = "1" maxElement = "800" diff = "5" startLength="1000"  repeat = "20">
+			</nodes>
+
+			<nodes name = "Arithmetic Progression" minElement = "1" maxElement = "800" diff = "13" startLength="1000"  repeat = "20">
+			</nodes>
+			
+			<nodes name = "Bad Data" minElement = "1" startLength="1000" repeat = "100">
+			</nodes>
+
+			<nodes name = "Good Data"  maxElement = "10000" startLength="1000" repeat = "100">
+			</nodes>
+		</experiment>
+	</experiments>
